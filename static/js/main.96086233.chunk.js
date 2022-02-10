@@ -25,219 +25,219 @@
                     },
                 ],
                 r = function () {
-                    return Object(o.jsxs)("div", {
-                        children: [
-                            Object(o.jsx)("section", {
-                                className: "banner text-center",
-                                children: Object(o.jsxs)("div", {
-                                    className: "content",
-                                    children: [
-                                        Object(o.jsx)("h1", {
-                                            children: "Tunis",
-                                        }),
-                                        Object(o.jsx)("h2", {
-                                            children:
-                                                "Personal Portfolio React Template",
-                                        }),
-                                    ],
-                                }),
-                            }),
-                            Object(o.jsx)("section", {
-                                className: "demo dark",
-                                children: Object(o.jsx)("div", {
-                                    className: "container",
-                                    children: Object(o.jsx)("div", {
-                                        className: "row",
-                                        children: n.map(function (e, s) {
-                                            return Object(o.jsx)(
-                                                "div",
-                                                {
-                                                    className:
-                                                        "col-xs-12 col-sm-6 col-md-6",
-                                                    "data-aos": "fade-up",
-                                                    "data-aos-duration": "1200",
-                                                    "data-aos-delay":
-                                                        e.delayAnimation,
-                                                    children: Object(o.jsxs)(
-                                                        "div",
-                                                        {
-                                                            className:
-                                                                "content text-center",
-                                                            children: [
-                                                                Object(o.jsx)(
-                                                                    "div",
-                                                                    {
-                                                                        className:
-                                                                            "bg_container",
-                                                                        children:
-                                                                            Object(
-                                                                                o.jsx
-                                                                            )(
-                                                                                l.b,
-                                                                                {
-                                                                                    to: e.routerPath,
-                                                                                    target: "_blank",
-                                                                                    rel: "noreferrer",
-                                                                                    children:
-                                                                                        Object(
-                                                                                            o.jsx
-                                                                                        )(
-                                                                                            "img",
-                                                                                            {
-                                                                                                src: "img/intro/".concat(
-                                                                                                    e.img,
-                                                                                                    ".jpg"
-                                                                                                ),
-                                                                                                alt: "demo",
-                                                                                                className:
-                                                                                                    "img-responsive screenshot",
-                                                                                            }
-                                                                                        ),
-                                                                                }
-                                                                            ),
-                                                                    }
-                                                                ),
-                                                                Object(o.jsx)(
-                                                                    "h2",
-                                                                    {
-                                                                        children:
-                                                                            e.title,
-                                                                    }
-                                                                ),
-                                                                Object(o.jsx)(
-                                                                    "div",
-                                                                    {
-                                                                        className:
-                                                                            "anchor",
-                                                                        children:
-                                                                            Object(
-                                                                                o.jsx
-                                                                            )(
-                                                                                "h6",
-                                                                                {
-                                                                                    children:
-                                                                                        Object(
-                                                                                            o.jsx
-                                                                                        )(
-                                                                                            l.b,
-                                                                                            {
-                                                                                                className:
-                                                                                                    "btn",
-                                                                                                to: e.routerPath,
-                                                                                                target: "_blank",
-                                                                                                rel: "noreferrer",
-                                                                                                children:
-                                                                                                    "view demo",
-                                                                                            }
-                                                                                        ),
-                                                                                }
-                                                                            ),
-                                                                    }
-                                                                ),
-                                                            ],
-                                                        }
-                                                    ),
-                                                },
-                                                s
-                                            );
-                                        }),
-                                    }),
-                                }),
-                            }),
-                            Object(o.jsxs)("footer", {
-                                children: [
-                                    Object(o.jsxs)("div", {
-                                        className: "go_purchase",
-                                        children: [
-                                            Object(o.jsx)("h6", {
-                                                "data-aos": "fade-up",
-                                                "data-aos-duration": "1200",
-                                                children:
-                                                    "You are at the right step now",
-                                            }),
-                                            Object(o.jsxs)("h3", {
-                                                "data-aos": "fade-up",
-                                                "data-aos-duration": "1200",
-                                                "data-aos-delay": "100",
-                                                children: [
-                                                    "Purchase Tunis & Build Your Super Fast",
-                                                    " ",
-                                                    Object(o.jsx)("span", {
-                                                        className:
-                                                            "theme-color",
-                                                        children: "React",
-                                                    }),
-                                                    " &",
-                                                    " ",
-                                                    Object(o.jsx)("span", {
-                                                        className:
-                                                            "theme-color",
-                                                        children:
-                                                            "Bootstrap 5 ",
-                                                    }),
-                                                    " Based Portfolio Template.",
-                                                ],
-                                            }),
-                                            Object(o.jsx)("div", {
-                                                "data-aos": "fade-up",
-                                                "data-aos-duration": "1200",
-                                                "data-aos-delay": "200",
-                                                children: Object(o.jsxs)("a", {
-                                                    className: "button",
-                                                    href: "https://themeforest.net/user/ib-themes/portfolio",
-                                                    target: "_blank",
-                                                    rel: "noreferrer",
-                                                    children: [
-                                                        Object(o.jsx)("span", {
-                                                            className:
-                                                                "button-text",
-                                                            children:
-                                                                " Purchase Now",
-                                                        }),
-                                                        Object(o.jsx)("span", {
-                                                            className:
-                                                                "button-icon fa fa-arrow-right",
-                                                        }),
-                                                    ],
-                                                }),
-                                            }),
-                                        ],
-                                    }),
-                                    Object(o.jsxs)("div", {
-                                        className:
-                                            "text-center footer_copyright",
-                                        children: [
-                                            Object(o.jsx)("h6", {
-                                                children:
-                                                    "Tunis - Personal Portfolio React Template",
-                                            }),
-                                            Object(o.jsxs)("h5", {
-                                                children: [
-                                                    "\xa9 ",
-                                                    new Date().getFullYear(),
-                                                    " Designed with",
-                                                    " ",
-                                                    Object(o.jsx)("span", {
-                                                        className: "heart",
-                                                        children: "\u2764",
-                                                    }),
-                                                    " by",
-                                                    " ",
-                                                    Object(o.jsx)("a", {
-                                                        href: "https://themeforest.net/user/ib-themes",
-                                                        target: "_blank",
-                                                        rel: "noreferrer",
-                                                        children: "ib-themes.",
-                                                    }),
-                                                    " ",
-                                                ],
-                                            }),
-                                        ],
-                                    }),
-                                ],
-                            }),
-                        ],
-                    });
+                    // return Object(o.jsxs)("div", {
+                    //     children: [
+                    //         Object(o.jsx)("section", {
+                    //             className: "banner text-center",
+                    //             children: Object(o.jsxs)("div", {
+                    //                 className: "content",
+                    //                 children: [
+                    //                     Object(o.jsx)("h1", {
+                    //                         children: "Tunis",
+                    //                     }),
+                    //                     Object(o.jsx)("h2", {
+                    //                         children:
+                    //                             "Personal Portfolio React Template",
+                    //                     }),
+                    //                 ],
+                    //             }),
+                    //         }),
+                    //         Object(o.jsx)("section", {
+                    //             className: "demo dark",
+                    //             children: Object(o.jsx)("div", {
+                    //                 className: "container",
+                    //                 children: Object(o.jsx)("div", {
+                    //                     className: "row",
+                    //                     children: n.map(function (e, s) {
+                    //                         return Object(o.jsx)(
+                    //                             "div",
+                    //                             {
+                    //                                 className:
+                    //                                     "col-xs-12 col-sm-6 col-md-6",
+                    //                                 "data-aos": "fade-up",
+                    //                                 "data-aos-duration": "1200",
+                    //                                 "data-aos-delay":
+                    //                                     e.delayAnimation,
+                    //                                 children: Object(o.jsxs)(
+                    //                                     "div",
+                    //                                     {
+                    //                                         className:
+                    //                                             "content text-center",
+                    //                                         children: [
+                    //                                             Object(o.jsx)(
+                    //                                                 "div",
+                    //                                                 {
+                    //                                                     className:
+                    //                                                         "bg_container",
+                    //                                                     children:
+                    //                                                         Object(
+                    //                                                             o.jsx
+                    //                                                         )(
+                    //                                                             l.b,
+                    //                                                             {
+                    //                                                                 to: e.routerPath,
+                    //                                                                 target: "_blank",
+                    //                                                                 rel: "noreferrer",
+                    //                                                                 children:
+                    //                                                                     Object(
+                    //                                                                         o.jsx
+                    //                                                                     )(
+                    //                                                                         "img",
+                    //                                                                         {
+                    //                                                                             src: "img/intro/".concat(
+                    //                                                                                 e.img,
+                    //                                                                                 ".jpg"
+                    //                                                                             ),
+                    //                                                                             alt: "demo",
+                    //                                                                             className:
+                    //                                                                                 "img-responsive screenshot",
+                    //                                                                         }
+                    //                                                                     ),
+                    //                                                             }
+                    //                                                         ),
+                    //                                                 }
+                    //                                             ),
+                    //                                             Object(o.jsx)(
+                    //                                                 "h2",
+                    //                                                 {
+                    //                                                     children:
+                    //                                                         e.title,
+                    //                                                 }
+                    //                                             ),
+                    //                                             Object(o.jsx)(
+                    //                                                 "div",
+                    //                                                 {
+                    //                                                     className:
+                    //                                                         "anchor",
+                    //                                                     children:
+                    //                                                         Object(
+                    //                                                             o.jsx
+                    //                                                         )(
+                    //                                                             "h6",
+                    //                                                             {
+                    //                                                                 children:
+                    //                                                                     Object(
+                    //                                                                         o.jsx
+                    //                                                                     )(
+                    //                                                                         l.b,
+                    //                                                                         {
+                    //                                                                             className:
+                    //                                                                                 "btn",
+                    //                                                                             to: e.routerPath,
+                    //                                                                             target: "_blank",
+                    //                                                                             rel: "noreferrer",
+                    //                                                                             children:
+                    //                                                                                 "view demo",
+                    //                                                                         }
+                    //                                                                     ),
+                    //                                                             }
+                    //                                                         ),
+                    //                                                 }
+                    //                                             ),
+                    //                                         ],
+                    //                                     }
+                    //                                 ),
+                    //                             },
+                    //                             s
+                    //                         );
+                    //                     }),
+                    //                 }),
+                    //             }),
+                    //         }),
+                    //         Object(o.jsxs)("footer", {
+                    //             children: [
+                    //                 Object(o.jsxs)("div", {
+                    //                     className: "go_purchase",
+                    //                     children: [
+                    //                         Object(o.jsx)("h6", {
+                    //                             "data-aos": "fade-up",
+                    //                             "data-aos-duration": "1200",
+                    //                             children:
+                    //                                 "You are at the right step now",
+                    //                         }),
+                    //                         Object(o.jsxs)("h3", {
+                    //                             "data-aos": "fade-up",
+                    //                             "data-aos-duration": "1200",
+                    //                             "data-aos-delay": "100",
+                    //                             children: [
+                    //                                 "Purchase Tunis & Build Your Super Fast",
+                    //                                 " ",
+                    //                                 Object(o.jsx)("span", {
+                    //                                     className:
+                    //                                         "theme-color",
+                    //                                     children: "React",
+                    //                                 }),
+                    //                                 " &",
+                    //                                 " ",
+                    //                                 Object(o.jsx)("span", {
+                    //                                     className:
+                    //                                         "theme-color",
+                    //                                     children:
+                    //                                         "Bootstrap 5 ",
+                    //                                 }),
+                    //                                 " Based Portfolio Template.",
+                    //                             ],
+                    //                         }),
+                    //                         Object(o.jsx)("div", {
+                    //                             "data-aos": "fade-up",
+                    //                             "data-aos-duration": "1200",
+                    //                             "data-aos-delay": "200",
+                    //                             children: Object(o.jsxs)("a", {
+                    //                                 className: "button",
+                    //                                 href: "https://themeforest.net/user/ib-themes/portfolio",
+                    //                                 target: "_blank",
+                    //                                 rel: "noreferrer",
+                    //                                 children: [
+                    //                                     Object(o.jsx)("span", {
+                    //                                         className:
+                    //                                             "button-text",
+                    //                                         children:
+                    //                                             " Purchase Now",
+                    //                                     }),
+                    //                                     Object(o.jsx)("span", {
+                    //                                         className:
+                    //                                             "button-icon fa fa-arrow-right",
+                    //                                     }),
+                    //                                 ],
+                    //                             }),
+                    //                         }),
+                    //                     ],
+                    //                 }),
+                    //                 // Object(o.jsxs)("div", {
+                    //                 //     className:
+                    //                 //         "text-center footer_copyright",
+                    //                 //     children: [
+                    //                 //         Object(o.jsx)("h6", {
+                    //                 //             children:
+                    //                 //                 "Tunis - Personal Portfolio React Template",
+                    //                 //         }),
+                    //                 //         Object(o.jsxs)("h5", {
+                    //                 //             children: [
+                    //                 //                 "\xa9 ",
+                    //                 //                 new Date().getFullYear(),
+                    //                 //                 " Designed with",
+                    //                 //                 " ",
+                    //                 //                 Object(o.jsx)("span", {
+                    //                 //                     className: "heart",
+                    //                 //                     children: "\u2764",
+                    //                 //                 }),
+                    //                 //                 " by",
+                    //                 //                 " ",
+                    //                 //                 Object(o.jsx)("a", {
+                    //                 //                     href: "https://themeforest.net/user/ib-themes",
+                    //                 //                     target: "_blank",
+                    //                 //                     rel: "noreferrer",
+                    //                 //                     children: "ib-themes.",
+                    //                 //                 }),
+                    //                 //                 " ",
+                    //                 //             ],
+                    //                 //         }),
+                    //                 //     ],
+                    //                 // }),
+                    //             ],
+                    //         }),
+                    //     ],
+                    // });
                 },
                 j = c(4),
                 d = c(3),
