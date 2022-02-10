@@ -3360,6 +3360,7 @@
           return Object(o.jsx)(o.Fragment, {
             children: Object(o.jsx)("form", {
               className: "contactform",
+              "data-netlify": "true",
               onSubmit: c(function (e, s) {
                 s.target.reset(), console.log("Message submited: " + JSON.stringify(e));
               }),
