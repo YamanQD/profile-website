@@ -3361,6 +3361,7 @@
             children: Object(o.jsx)("form", {
               className: "contactform",
               "data-netlify": "true",
+              "netlify": "",
               onSubmit: c(function (e, s) {
                 s.target.reset(), console.log("Message submited: " + JSON.stringify(e));
               }),
