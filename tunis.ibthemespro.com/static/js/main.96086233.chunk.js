@@ -4,7 +4,8 @@
     77: function (e, s, c) {},
     78: function (e, s, c) {
       "use strict";
-      c.r(s);
+      //   c.r(s);
+
       var t = c(25),
         a = c.n(t),
         i = c(1),
@@ -1839,7 +1840,7 @@
             t(!c);
           }
           function Q() {
-            r(!n);
+            // r(!n);
           }
           function Z() {
             x(!u);
@@ -2948,7 +2949,7 @@
             t(!c);
           }
           function q() {
-            r(!n);
+            // r(!n);
           }
           function S() {
             x(!u);
@@ -3361,7 +3362,7 @@
             children: Object(o.jsx)("form", {
               className: "contactform",
               "data-netlify": "true",
-              "netlify": "",
+              netlify: "",
               onSubmit: c(function (e, s) {
                 s.target.reset(), console.log("Message submited: " + JSON.stringify(e));
               }),
@@ -3943,7 +3944,7 @@
             t(!c);
           }
           function Q() {
-            r(!n);
+            // r(!n);
           }
           function Z() {
             p(!x);
@@ -5156,7 +5157,7 @@
             t(!c);
           }
           function q() {
-            r(!n);
+            // r(!n);
           }
           function S() {
             x(!u);
