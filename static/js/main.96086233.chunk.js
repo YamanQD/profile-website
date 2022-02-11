@@ -3499,6 +3499,10 @@
                     }),
                   }),
                   Object(o.jsx)("div", {
+                    
+                   "data-netlify-recaptcha": "true",
+                  }),
+                  Object(o.jsx)("div", {
                     className: "col-12",
                     children: Object(o.jsxs)("button", {
                       type: "submit",
