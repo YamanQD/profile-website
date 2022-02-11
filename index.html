@@ -151,10 +151,13 @@
         r();
       })([]);
     </script>
-    <!-- <script>
+    <script>
       // window.location.replace("/index.html");
-      //   window.location.href = "http://localhost:5500/index.html";
-    </script> -->
+      if (window.location.pathname !== "/index.html") {
+        window.location.replace("/index.html");
+      }
+      // window.location.href = "http://localhost:5500/index.html";
+    </script>
     <script src="static/js/2.ab987286.chunk.js"></script>
     <script src="static/js/main.96086233.chunk.js"></script>
   </body>
