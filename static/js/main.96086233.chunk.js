@@ -317,7 +317,7 @@
             year: "2021",
             position: "Ethical Hacking",
             compnayName: "Udemy",
-            details: "Ethical hacking from A-Z: Begnner to expert course",
+            details: "Ethical hacking from A-Z: Beginner to expert course",
           },
           {
             year: "2021",
@@ -373,7 +373,7 @@
           { meta: "Address", metaInfo: "Netherlands" },
           { meta: "phone", metaInfo: "+31620346683" },
           { meta: "Email", metaInfo: "alhariri.abdu.2018@gamil.com" },
-          { meta: "langages", metaInfo: "Arabic, Duch, English" },
+          { meta: "languages", metaInfo: "Arabic, Dutch, English" },
         ],
         v = function () {
           return Object(o.jsx)("ul", {
@@ -488,7 +488,7 @@
                             className: "col-12",
                             children: Object(o.jsx)("h3", {
                               className: "text-uppercase custom-title mb-0 ft-wt-600",
-                              children: "personal infos",
+                              children: "personal info",
                             }),
                           }),
                           Object(o.jsx)("div", {
@@ -809,7 +809,7 @@
                             }),
                             Object(o.jsx)("span", {
                               className: "project-label",
-                              children: "Langages ",
+                              children: "Languages ",
                             }),
                             ":",
                             " ",
@@ -911,7 +911,7 @@
                             }),
                             Object(o.jsx)("span", {
                               className: "project-label",
-                              children: "Langages ",
+                              children: "Languages ",
                             }),
                             ":",
                             " ",
@@ -1019,7 +1019,7 @@
                               }),
                               Object(o.jsx)("span", {
                                 className: "project-label",
-                                children: "Langages ",
+                                children: "Languages ",
                               }),
                               ":",
                               " ",
@@ -1173,7 +1173,7 @@
                             }),
                             Object(o.jsx)("span", {
                               className: "project-label",
-                              children: "Langages",
+                              children: "Languages",
                             }),
                             ":",
                             " ",
@@ -1275,7 +1275,7 @@
                             }),
                             Object(o.jsx)("span", {
                               className: "project-label",
-                              children: "Langages",
+                              children: "Languages",
                             }),
                             ":",
                             " ",
@@ -1377,7 +1377,7 @@
                             }),
                             Object(o.jsx)("span", {
                               className: "project-label",
-                              children: "Langages ",
+                              children: "Languages ",
                             }),
                             ":",
                             " ",
@@ -1493,7 +1493,7 @@
           //                                         className:
           //                                             "project-label",
           //                                         children:
-          //                                             "Langages ",
+          //                                             "Languages ",
           //                                     }),
           //                                     ":",
           //                                     " ",
@@ -1619,7 +1619,7 @@
           //                                         className:
           //                                             "project-label",
           //                                         children:
-          //                                             "Langages ",
+          //                                             "Languages ",
           //                                     }),
           //                                     ":",
           //                                     " ",
@@ -1744,7 +1744,7 @@
           //                                         className:
           //                                             "project-label",
           //                                         children:
-          //                                             "Langages ",
+          //                                             "Languages ",
           //                                     }),
           //                                     ":",
           //                                     " ",
